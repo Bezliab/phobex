@@ -6,7 +6,7 @@
 //     id: 'arachnophobia',
 //     name: 'Arachnophobia',
 //     fear: 'spiders',
-//     keywords: ['spider', 'spiders', 'arachnid(s)', 'arachnids', 'tarantula', 'web'],
+//     keywords: ['spider', 'spiders', 'arachnid(s)', 'tarantula', 'web'],
 //     description:
 //       'One of the most prevalent phobias in the world, arachnophobia is an intense, irrational fear of spiders and other arachnids. Sufferers may experience panic attacks, rapid heartbeat, and extreme avoidance behavior even at the sight of a small, harmless spider. The fear is believed to have deep evolutionary roots as a survival mechanism against venomous creatures.',
 //     prevalence: '30% of people',
