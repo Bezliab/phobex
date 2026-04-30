@@ -270,7 +270,7 @@
 // Complete phobia dataset — 300+ entries covering all clinically recognised,
 // named, and documented phobias worldwide.
 
-export const phobias = [
+const phobias = [
   // ─── A ────────────────────────────────────────────────────────────────────
 
   {
@@ -6073,7 +6073,7 @@ export const phobias = [
   },
 ];
 
-// export default phobias;
+export default phobias;
 
 // {
 //   id: 'vestiphobia',
