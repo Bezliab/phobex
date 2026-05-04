@@ -6075,7 +6075,7 @@ const phobias = [
 
 export default phobias;
 
-// { about to make changes
+// { about to make change
 //   id: 'vestiphobia',
 //   name: 'Vestiphobia',
 //   fear: 'clothing',
