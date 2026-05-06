@@ -5812,5 +5812,5 @@ export default phobias;
 //   name: 'Vestiphobia',
 //   fear: 'clothing',
 //   keywords: ['clothing', 'clothes', 'fabric', 'wearing', 'textiles', 'fabric texture', 'dress'],
-//   description:
+//   description: The description
 //     'Vestiphobia is a fear of clothing or of wearing certain garments. It may relate to sensory sensitivity to fabric textures, associations of clothing with restriction, or trauma linked to specific garments. Sufferers may wear only minimal or specific types of clothing and experience distress when required to
